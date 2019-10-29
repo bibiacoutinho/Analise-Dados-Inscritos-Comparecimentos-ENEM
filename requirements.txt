@@ -1,0 +1,4 @@
+bibliotecas necessárias:
+-pandas
+-numpy
+-matplotlib.pyplot
